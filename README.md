@@ -25,9 +25,7 @@ The MATLAB simulation implements the ESPRIT algorithm on a provided dataset:
 5.  **Results:** The simulation successfully estimated the DOA angles for the two sources at approximately **-16.05°** and **20.92°**.
 
 ## 📂 Repository Structure
-*   `/src`: Contains the MATLAB scripts for running the ESPRIT simulation.
 *   `/data`: Contains the `.mat` file with the simulated antenna array recordings (40 receivers, 1000 snapshots).
-*   `/doc`: Includes the comprehensive project report (`SS_ProjectReport.pdf`) in Persian, detailing the theoretical answers and simulation steps.
 
 ## 👥 Authors
 *   **Seyed Mohammad Erfan Bateni (400100792)**
